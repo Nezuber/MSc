@@ -10,13 +10,12 @@
 The MATLAB code for the experiment conduction is provided in `\os2401` and `\os2501` for the pilot study and main study, respectively. However, this code is only functional in a laboritory with the required apparatus. 
 
 ### Analysis Code
-Analysis was conducted in R, the `main.R` file handles all of the functions stored in `/src`. 
+Analysis was conducted in R. The `main.R` file runs all functionalities. 
 
-`/data` holds the data collected from participants and the answers to the questionnaire.
-
-`/plots` stores all created figures.
-
-`/txt`stores the main statistical result tables.
+- [`data/`](data): holds the data collected from participants and the answers to the questionnaire.
+- [`plots/`](plots): stores all created figures.
+- [`txt/`](txt): stores the main statistical result tables.
+- [`src/`](src): includes relevant variables in `variables.R` and all functions, split into `run_` files including smaller functions from `fun_` files and `utils.R`
 
 ## Abbreviations
 Both in the code and figures, several abbreviations are used. 
