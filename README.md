@@ -28,5 +28,6 @@ The conducted tasks are abbreviated as follows:
 - Perceptual Control Task: Control, C, Experc
 
 "SL" refers to the difference between average large - small target disc apertures.
+
 Other abbreviations are explained in comments in the code as required.
 
