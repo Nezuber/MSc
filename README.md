@@ -15,7 +15,7 @@ Analysis was conducted in R. The `main.R` file runs all functionalities.
 - [`data/`](data): holds the data collected from participants and the answers to the questionnaire.
 - [`plots/`](plots): stores all created figures.
 - [`txt/`](txt): stores the main statistical result tables.
-- [`src/`](src): includes relevant variables in `variables.R` and all functions, split into `run_` files including smaller functions from `fun_` files and `utils.R`
+- [`src/`](src): includes relevant variables in `variables.R` and all functions, split into `run_` files including smaller functions from `fun_` files and `utils.R`.
 
 ## Abbreviations
 Both in the code and figures, several abbreviations are used. 
