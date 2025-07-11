@@ -1,4 +1,4 @@
-# GitHub repository Master Thesis: Comparing Size Discrimination in Visuomotor and Perceptual Judgements
+# GitHub repository of the Master Thesis: Comparing Size Discrimination in Visuomotor and Perceptual Judgements
 **Eberhard-Karls Universität Tübingen**
 
 **Author:** Tanja Huber 
