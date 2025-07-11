@@ -1,0 +1,10 @@
+2025-01-23
+This is the directory for the experiment os2501, the MSc thesis of Tanja Huber. 
+It is a continuation of os2401.
+Started: January 2025
+
+This is a replication of Ganel et al. (2012, PLoS One). The aim is to investigate
+if size resolution of actions like grasping is better than perception. We plan to 
+also include manual estimation. The analysis will involve dichotomising the responses
+from grasping and manual estimation and comparing accuracies in the grasping, manual
+estimation and perceptual judgement tasks.

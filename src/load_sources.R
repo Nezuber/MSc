@@ -1,0 +1,8 @@
+source("src/variables.R")
+source("src/utils.R")
+source("src/fun_analysis.R")
+source("src/fun_plots.R")
+source("src/fun_preprocessing.R")
+source("src/run_analysis.R")
+source("src/run_plots.R")
+source("src/run_preprocessing.R")
