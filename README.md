@@ -1,11 +1,33 @@
-# MSc Repository of Tanja Huber: Comparing Size Discrimination in Visuomotor and Perceptual Judgements
+# GitHub repository Master Thesis: Comparing Size Discrimination in Visuomotor and Perceptual Judgements
+---
+**Eberhard-Karls Universität Tübingen**
 
-# Grasp or G
-# ManEst or M 
-# Perc or P 
-# Experc, Control, C all refer to the perceptual control task
+**Author:** Tanja Huber 
 
-# Seminar and Pilot both refer to the same pilot study data, that was part of a seminar
+**Date:** 11.07.2025
 
+## Repository Structure
+### Lab Code
+The MATLAB code for the experiment conduction is provided in `\os2401` and `\os2501` for the pilot study and main study, respectively. However, this code is only functional in a laboritory with the required apparatus. 
 
-# SL refers to the difference between average large - small target disc apertures 
+### Analysis Code
+Analysis was conducted in R, the `main.R` file handles all of the functions stored in `/src`. 
+
+`/data` holds the data collected from participants and the answers to the questionnaire.
+
+`/plots` stores all created figures.
+
+`/txt`stores the main statistical result tables.
+
+## Abbreviations
+Both in the code and figures, several abbreviations are used. 
+"seminar" and "pilot" both refer to the same data, as the pilot study was collected from a seminar. "main" refers to the main study of the thesis.
+The conducted tasks are abbreviated as follows:
+- Grasping Task: Grasp, G
+- Manual Estimation Task: ManEst, M
+- Perceptual Judgement Task: Perc, P
+- Perceptual Control Task: Control, C, Experc
+
+"SL" refers to the difference between average large - small target disc apertures.
+Other abbreviations are explained in comments in the code as required.
+
