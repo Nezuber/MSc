@@ -9,7 +9,7 @@
 ### Lab Code
 The MATLAB code for the experiment conduction is provided in `\os2401` and `\os2501` for the pilot study and main study, respectively. 
 Main files are `os2401.m` and `os2501.m`. 
-Each participants per-trial data is saved in the respective `data/` folders, while the summarized data is stored in the `analysis/` folders.
+Each participants per-trial data is saved in the respective `data/` folders, while the summarized per-task data is stored in the `analyses/` folders.
 However, this code is only functional in a laboritory with the required apparatus. 
 
 ### Analysis Code
